@@ -1,0 +1,7 @@
+To install fast-api bash: pip install fastapi
+
+install an ASGI server for production such as : Uvicorn
+: pip install  Uvicorn
+
+#To run the server bash: uvicorn main:app --reload
+
